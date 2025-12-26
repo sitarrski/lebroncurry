@@ -1,2 +1,2 @@
 # lebroncurry
-Projekt z programowania
+Projekt na studia
